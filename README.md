@@ -73,9 +73,9 @@ To get a local copy up and running, follow these simple steps:
 
 2. **Using the application**
 Run it in the Jupyter notebook and use your own PDF file. Please carefully review the following preparation instructions.
-- Each PDF file should contain 8 signatures, each placed within a separate square box.
-- Each PDF file should contain 8-10 pages, with each page featuring slight variations of one person's signature.
-- There will be a total of 9 different PDFs, each showcasing the signatures of 9 different individuals
+- Each PDF file should contain 8 signatures, each placed within a separate square box.The signatures should be handwritten. Print the PDF, then scan the printed pages.
+- Each PDF file should contain 8-10 pages, with each page featuring slight variations of one person's signature. 
+- There will be a total of 9 different PDFs, each showcasing the signatures of 9 different individuals.
 ![signature PDF format](https://github.com/nazib123/SignatureVerificationML/assets/137222846/c0022d9e-f1d5-4904-8527-7e863f8bec45)
 
 
